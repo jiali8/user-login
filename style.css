@@ -1,0 +1,66 @@
+
+hr {
+    width: 300px; 
+}
+
+body {
+    width: 600px; 
+    text-align: center;
+    margin: 0 auto; 
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-top: 50px;
+    border-radius: 20px;
+    border-color: purple;
+    border-style: solid;
+    padding-top: 20px;
+
+    
+}
+
+button {
+    width: 100px;
+    background: green;
+    color: white; 
+    padding: 5px;
+    font-size: 20px;
+    margin-bottom: 10px; 
+}
+
+a { 
+    text-decoration: none;
+    color: white; 
+}
+
+a:hover {
+    color: yellow;
+    text-decoration: underline;
+}
+
+
+html { 
+    background: url("images/background.jpg") fixed; 
+    background-size: cover; 
+}
+
+div {
+    background-color: purple;
+    padding: 25px;
+    color: white;
+    margin: 20px 0px;
+}
+
+.font {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.login {
+    font-family: 'Georgia', Times, serif;
+}
+
+.social {
+    letter-spacing: 10px;
+}
+
+div, input {
+    font-size: 15px;
+}
